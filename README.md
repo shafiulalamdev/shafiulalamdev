@@ -49,7 +49,7 @@ A multi-tenant bus ticketing platform serving bus operators, passengers, agents,
 - Integrated local digital payment gateways, including bKash and BRAC Bank.
 - Developed tenant and administrative reporting for booking operations.
 
-### [HelloHRM — Human Resource Management SaaS](https://hellohrm.com)
+### [HelloHRM — Human Resource Management SaaS]
 
 A multi-tenant HRMS application for managing employee operations and workforce workflows.
 
@@ -60,7 +60,7 @@ A multi-tenant HRMS application for managing employee operations and workforce w
 - Developed role-based access control and push notifications.
 - Used asynchronous messaging and real-time technologies to support application workflows.
 
-### [Farm Tender — Agricultural Marketplace](https://www.farmtender.com.au)
+### [Farm Tender — Agricultural Marketplace]
 
 An online marketplace for agricultural machinery, equipment, grain, hay, livestock, and supplies.
 
@@ -71,7 +71,7 @@ An online marketplace for agricultural machinery, equipment, grain, hay, livesto
 - Implemented marketplace features such as featured listings, seller fees, and promotional advertising.
 - Supported product and media workflows using cloud storage and SMS integrations.
 
-### [Moodyyc.com — E-commerce & Appointment Booking](https://moodyyc.com)
+### [Moodyyc.com — E-commerce & Appointment Booking]
 
 An e-commerce and appointment-booking platform with online payments and responsive interfaces.
 
